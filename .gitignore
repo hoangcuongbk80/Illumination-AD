@@ -1,0 +1,13 @@
+__pycache__
+models/__pycache__
+utils/__pycache__
+processing/__pycache__
+datasets
+checkpoints
+wandb
+Energizer-AAA-2.jpg
+test.py
+old_data
+data
+results
+medicine.zip
