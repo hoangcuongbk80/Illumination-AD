@@ -1,6 +1,6 @@
 ## Download LL-IDA dataset:
 
-Link download (Full): https://drive.google.com/drive/folders/1nds_XQvwklNFFpgukOJRc9p6ri_DaXHg?usp=sharing
+Link download: https://drive.google.com/drive/folders/1nds_XQvwklNFFpgukOJRc9p6ri_DaXHg?usp=sharing
 
 Small Dataset: https://drive.google.com/drive/folders/17WhhviCgQwpITPgchjxCRKdEl78Geq3T?usp=sharing
 
